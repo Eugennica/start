@@ -24,7 +24,7 @@
 ##
 
 - name: test Ansible ios_config module on Cisco IOS XE
-  hosts: HandTCisco
+  hosts: Cisco
   gather_facts: no
 
   tasks:
